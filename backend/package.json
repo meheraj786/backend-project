@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a backend project",
+  "keywords": [
+    "backend",
+    "project",
+    "practice"
+  ],
+  "license": "ISC",
+  "author": "Mehraj H.",
+  "type": "module",
+  "main": "index.js", 
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
